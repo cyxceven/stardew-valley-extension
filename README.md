@@ -2,7 +2,7 @@
 
 This Extension was built for the Twitch Dev Tour 2019 and showcases how viewers can vote on the in-game weather instead of relying on the game’s default weather algorithm. It has three main components: a frontend UI for the viewer and broadcaster, backend code (EBS) to manage voting and a game mod to manipulate the game state. 
 
-<img src="https://github.com/twitchdev/stardew-valley-extension/blob/master/discovery/screenshoted035da6-a71f-4b62-b72e-17f62e6d7304.png" height="300">
+<img src="https://github.com/cyxceven/stardew-valley-extension/blob/main/discovery/screenshoted035da6-a71f-4b62-b72e-17f62e6d7304.png" height="300">
 
 ## Building the Frontend
 
